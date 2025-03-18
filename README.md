@@ -1,6 +1,6 @@
 # TASTE-Rob: Advancing Video Generation of Task-Oriented Hand-Object Interaction for Generalizable Robotic Manipulation
 
-by Hongxiang Zhao*, Xingchen Liu*, [Mutian Xu](https://mutianxu.github.io/), Yiming Hao, Weikai Chen, [Xiaoguang Han‡](https://gaplab.cuhk.edu.cn/) from [GAP-Lab](https://gaplab.cuhk.edu.cn/).
+by Hongxiang Zhao*, Xingchen Liu*, [Mutian Xu](https://mutianxu.github.io/), Yiming Hao, Weikai Chen, [Xiaoguang Han§](https://gaplab.cuhk.edu.cn/) from [GAP-Lab](https://gaplab.cuhk.edu.cn/).
 
 ## Introduction
 This repository is built for:
