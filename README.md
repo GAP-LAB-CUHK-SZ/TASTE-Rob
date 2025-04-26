@@ -35,5 +35,5 @@
 
 ## 🚩 Plan
 - [x] Paper Released.
-- [ ] Dataset.
+- [ ] Dataset will be released before ``05/05/2025``.
 - [ ] Source Code and Pretrained Weights.
