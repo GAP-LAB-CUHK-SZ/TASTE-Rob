@@ -41,7 +41,7 @@
 - [ ] Source Code and Pretrained Weights.
 
 ## 🎥 Dataset
-TASTE-Rob contains 100,856 task-oriented ego-centric hand-object interaction videos crossing different environments. We provide an OneDrive link to download the full data. Please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSdOlNnW3t_7TGC2FMDMcIb7jnhRjfynq6xLoz5rJk_i-fl5zQ/viewform?usp=sf_link) to get the download link and password.
+TASTE-Rob contains 100,856 task-oriented ego-centric hand-object interaction videos crossing different environments. We provide an OneDrive link to download the full data. Please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSdOlNnW3t_7TGC2FMDMcIb7jnhRjfynq6xLoz5rJk_i-fl5zQ/viewform?usp=sf_link), and we will send the download link and password to your e-mail soon.
 
 We split the full data into SingleHand/DoubleHand and multiple environments, the total size is about 1.55 TB.
 
