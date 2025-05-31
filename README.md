@@ -7,7 +7,7 @@
     Xingchen Liu*</a>&emsp;
     <a href='https://mutianxu.github.io/' target='_blank'>Mutian Xu</a>&emsp;
     <a href='https://scholar.google.com/citations?user=mlu1Oo4AAAAJ&hl=en' target='_blank'>Yiming Hao</a>&emsp;
-    Weikai Chen</a>&emsp;
+    <a href='https://chenweikai.github.io/' target='_blank'>Weikai Chen</a>&emsp;
     <a href='https://gaplab.cuhk.edu.cn/' target='_blank'>Xiaoguang Han§</a>&emsp;
     <br>
     CUHKSZ <a href='https://gaplab.cuhk.edu.cn/' target='_blank'>GAP-Lab</a>   
