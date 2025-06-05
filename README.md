@@ -30,6 +30,18 @@
     <img src="assets/teaser.png" height=500>
 </div>
 
+> If you find our work useful in your research, please consider citing:
+```
+@InProceedings{Zhao_2025_CVPR,
+    author    = {Zhao, Hongxiang and Liu, Xingchen and Xu, Mutian and Hao, Yiming and Chen, Weikai and Han, Xiaoguang},
+    title     = {TASTE-Rob: Advancing Video Generation of Task-Oriented Hand-Object Interaction for Generalizable Robotic Manipulation},
+    booktitle = {Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR)},
+    month     = {June},
+    year      = {2025},
+    pages     = {27683-27693}
+}
+```
+
 ## 📣 News
 - [5/3/2025] TASTE-Rob Dataset has been released now!!!
 - [3/14/2025] TASTE-Rob has been released on Arxiv!!!
