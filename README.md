@@ -43,6 +43,7 @@
 ```
 
 ## 📣 News
+- [6/7/2025] TASTE-Rob Dataset Download Tool has been released now!!!
 - [5/3/2025] TASTE-Rob Dataset has been released now!!!
 - [3/14/2025] TASTE-Rob has been released on Arxiv!!!
 - [2/27/2025] 🎉🎉🎉TASTE-Rob has been accepted by CVPR 2025!!!🎉🎉🎉
@@ -80,6 +81,17 @@ We split the full data into SingleHand/DoubleHand and multiple environments, the
 ```
 
 In ```captions.xlsx```, the sheet ```Single-Hand``` stores single-hand interaction captions, and the sheet ```Double-Hand``` stores double-hand interaction captions. In each sheet, there has three attributes: ```id```, ```scene``` and ```caption```. You could search ids of desired videos in this excel file.
+
+## 🎥 Dataset Download Tool
+You could use ```download_tool_taste_rob.py``` to download zip files or mp4 files, as follows:
+```
+python download_tool_taste_rob.py \
+    --file_list downlist.txt \
+    --url {our_given_url} \
+    --download_folder {local_path_of_downloaded_files} \
+    --force True
+```
+To download successfully, you need to modify ```our_given_url```, ```local_path_of_downloaded_files``` and ```downlist.txt```, which stores desired file paths.
 
 ## License
 
