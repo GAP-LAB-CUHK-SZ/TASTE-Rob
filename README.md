@@ -43,6 +43,7 @@
 ```
 
 ## 📣 News
+- [8/25/2025] Baidu Netdisk link of TASTE-Rob Dataset has been released now!!!
 - [6/7/2025] TASTE-Rob Dataset Download Tool has been released now!!!
 - [5/3/2025] TASTE-Rob Dataset has been released now!!!
 - [3/14/2025] TASTE-Rob has been released on Arxiv!!!
@@ -54,7 +55,7 @@
 - [ ] Source Code and Pretrained Weights.
 
 ## 🎥 Dataset
-TASTE-Rob contains 100,856 task-oriented ego-centric hand-object interaction videos crossing different environments. We provide an OneDrive link to download the full data. Please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSdOlNnW3t_7TGC2FMDMcIb7jnhRjfynq6xLoz5rJk_i-fl5zQ/viewform?usp=sf_link), and we will send the download link to your e-mail soon.
+TASTE-Rob contains 100,856 task-oriented ego-centric hand-object interaction videos crossing different environments. We provide OneDrive and Baidu Netdisk link to download the full data. Please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSdOlNnW3t_7TGC2FMDMcIb7jnhRjfynq6xLoz5rJk_i-fl5zQ/viewform?usp=sf_link), and we will send the download link to your e-mail soon. If you have already filled out the form and still need baidu netdisk link, you could directly email me (hongxiangzhao98@gmail.com).
 
 We split the full data into SingleHand/DoubleHand and multiple environments, the total size is about 1.55 TB.
 
