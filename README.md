@@ -52,7 +52,6 @@
 ## 🚩 Plan
 - [x] Paper Released.
 - [x] Dataset will be released before ``05/05/2025``.
-- [ ] Source Code and Pretrained Weights.
 
 ## 🎥 Dataset
 TASTE-Rob contains 100,856 task-oriented ego-centric hand-object interaction videos crossing different environments. We provide OneDrive and Baidu Netdisk link to download the full data. Please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSdOlNnW3t_7TGC2FMDMcIb7jnhRjfynq6xLoz5rJk_i-fl5zQ/viewform?usp=sf_link), and we will send the download link to your e-mail soon. If you have already filled out the form and still need baidu netdisk link, you could directly email me (hongxiangzhao98@gmail.com).
