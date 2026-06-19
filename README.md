@@ -19,7 +19,8 @@
 <p align="center">
   <a href="https://taste-rob.github.io/"><b>📖 Project Page</b></a> |
   <a href="https://arxiv.org/abs/2503.11423"><b>📄 Paper Link</b></a> |
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLSdOlNnW3t_7TGC2FMDMcIb7jnhRjfynq6xLoz5rJk_i-fl5zQ/viewform?usp=sf_link"><b>🎥 Dataset Form</b></a>
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSdOlNnW3t_7TGC2FMDMcIb7jnhRjfynq6xLoz5rJk_i-fl5zQ/viewform?usp=sf_link"><b>🎥 Dataset Form</b></a> |
+  <a href="https://www.modelscope.cn/datasets/GAP-Lab/TASTE-Rob-Dataset"><b>🤖 ModelScope Link</b></a>
 </p>
 
 </div>
